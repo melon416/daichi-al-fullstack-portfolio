@@ -76,7 +76,19 @@ To customize this portfolio for your own use:
 
 ## Deployment
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
+See [DEPLOYMENT.md](DEPLOYMENT.md) for Vercel or [NETLIFY_DEPLOYMENT.md](NETLIFY_DEPLOYMENT.md) for Netlify instructions.
+
+### Quick Deploy to Netlify (No Phone Verification Required!)
+
+1. **Get Resend API Key**: Sign up at [resend.com](https://resend.com) and create an API key
+2. **Deploy to Netlify**:
+   - Go to [app.netlify.com](https://app.netlify.com/signup) and sign up with GitHub
+   - Click "Add new site" → Import your GitHub repo
+   - Add environment variable: `RESEND_API_KEY`
+   - Click "Deploy site" - live in ~3 minutes!
+3. **Add Custom Domain** (optional):
+   - In Netlify, go to Site settings → Domains
+   - Add your domain and configure DNS
 
 ### Quick Deploy to Vercel
 
@@ -88,9 +100,6 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
    - Go to Project Settings → Environment Variables
    - Add `RESEND_API_KEY` with your Resend API key
 4. **Deploy**: Click Deploy - your site will be live in ~2 minutes!
-5. **Add Custom Domain** (optional):
-   - In Vercel, go to Settings → Domains
-   - Add your domain and follow DNS configuration instructions
 
 ### Required Environment Variables
 
