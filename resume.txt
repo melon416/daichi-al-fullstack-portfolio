@@ -1,0 +1,72 @@
+Daichi Yamamoto
+Full Stack Developer | AI & Automation Engineer
+Tokyo, Japan | Kiwi530@proton.me | LinkedIn: linkedin.com/in/daichi-yamamoto
+
+Summary
+AI & Automation Engineer and Full Stack Developer with over 7 years ofexperience designing, deploying, and scaling intelligent automation and software systems. Skilled in machine learning, deep learning, and data-driven web solutions using frameworks such as TensorFlow, PyTorch, scikit-learn, and OpenCV.
+
+Strong track record in delivering enterprise-grade automation by integrating AI models, RPA tools, and low-code orchestration (N8N, Zapier, Make/Integromat) to improve operational efficiency and collaboration. Experienced in building AI-powered chatbots, voice assistants, and intelligent bots for platforms such as Slack, Discord, and enterprise CRMs.
+
+Full stack expertise across MERN, Next.js, Django, and Supabase, delivering high-performance, scalable web platforms with real-time data and cloud-native architectures. Adept in DevOps, Docker/Kubernetes, and CI/CD pipelines (GitHub Actions, Jenkins, GitLab CI) with cloud infrastructure experience across AWS, GCP, and Azure.
+
+Focused on bridging AI research and business automation to deliver measurable results in productivity, customer experience, and system efficiency across sectors such as fintech, healthcare, and e-commerce.
+
+Skills
+Languages & Frameworks:
+Python, JavaScript/TypeScript, Kotlin, Java, React, Next.js, Node.js, Django, Flask, FastAPI, Vue
+
+AI & Automation:
+TensorFlow, PyTorch, scikit-learn, OpenCV, Appium, Selenium, Playwright, N8N, Zapier, RPA Tools
+
+DevOps & Infrastructure:
+Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins, GitLab CI), AWS, GCP, Azure, Terraform
+
+Databases & APIs:
+PostgreSQL, MySQL, MongoDB, Firebase, Supabase, REST, GraphQL, WebSockets, Kafka, RabbitMQ
+
+Integrations:
+Stripe, Twilio, SendGrid, Google Maps API, Slack, Discord, Telegram bots
+
+Testing & Quality Assurance:
+Unit, Integration, and UI Testing — Mocha, Cypress, Jest (90%+ coverage in recent projects)
+
+Professional Experience
+
+Rakuten Group, Inc. | Tokyo, Japan | Senior Full Stack Developer
+2022 – 2024
+- Architected and launched an AI automation platform for internal operations using FastAPI, React, and Supabase, processing over 1 million records per month.
+- Automated 100+ recurring engineering workflows via Selenium, Playwright, and Slack bots, saving ~400 hours monthly.
+- Led cloud migration to GCP microservices, achieving 99.9% uptime and reducing deployment time by 40%.
+- Improved API performance through query optimization and caching, cutting average response time by 35%.
+- Designed role-based access control APIs with Supabase Auth and OAuth2, strengthening platform security.
+- Introduced TDD practices and mentoring programs for junior developers, cutting production bugs by 30%.
+
+SoftBank Robotics | Tokyo, Japan | Full Stack Developer (AI Integration)
+2019 – Feb 2022
+- Developed AI-driven web and mobile apps integrating robotics APIs, image recognition, and natural language models.
+- Built automation pipelines using N8N, Zapier, and FastAPI, integrating internal systems and third-party services.
+- Delivered data analytics dashboards with React, GraphQL, and PostgreSQL for device monitoring and performance tracking.
+- Integrated AI features (speech-to-text, object detection, sentiment analysis) to improve product personalization.
+- Created microservices using Node.js and Django, with scalable deployments on AWS ECS and Kubernetes.
+- Mentored 5 junior engineers in backend architecture and automation best practices.
+
+LINE Corporation | Tokyo, Japan | Junior Full Stack Developer
+2016 – Dec 2018
+- Built and maintained high-traffic mobile web applications using React, Node.js, and TypeScript.
+- Developed REST APIs supporting messaging, payments, and push notifications, serving millions of daily users.
+- Collaborated with design teams to translate Figma prototypes into performant front-end interfaces.
+- Improved backend query performance by 25% and enhanced testing coverage using Jest and Cypress.
+- Assisted in chatbot and AI assistant integration with LINE APIs and Google Cloud Dialogflow.
+
+Education
+The University of Tokyo | Tokyo, Japan
+Bachelor’s Degree in Computer Science and Intelligent Systems (2012 – 2016)
+
+Languages
+- Japanese (Native)
+- English (Fluent)
+
+Certifications
+- AWS Certified Solutions Architect – Associate
+- TensorFlow Developer Certificate
+- Microsoft Certified: Azure AI Engineer Associate

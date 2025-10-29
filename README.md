@@ -1,0 +1,87 @@
+# Luis Miguel Arreaza Guevara - Portfolio
+
+A modern, responsive portfolio website built with Next.js 14, TypeScript, and Tailwind CSS.
+
+## Features
+
+- 🚀 **Modern Tech Stack**: Next.js 14, TypeScript, Tailwind CSS
+- 🎨 **Beautiful Design**: Gradient backgrounds, animations, and modern UI
+- 📱 **Fully Responsive**: Works perfectly on all devices
+- ⚡ **Performance Optimized**: Fast loading and smooth animations
+- 🎭 **Interactive Elements**: Hover effects, scroll animations, and micro-interactions
+- 🌟 **Professional Content**: Based on real resume and experience
+
+## Tech Stack
+
+- **Framework**: Next.js 14 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Font**: Inter (Google Fonts)
+
+## Getting Started
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run the development server:
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Project Structure
+
+```
+├── app/
+│   ├── components/
+│   │   ├── Navigation.tsx
+│   │   ├── Hero.tsx
+│   │   ├── About.tsx
+│   │   ├── Skills.tsx
+│   │   ├── Experience.tsx
+│   │   ├── Projects.tsx
+│   │   ├── Contact.tsx
+│   │   └── Footer.tsx
+│   ├── layout.tsx
+│   └── page.tsx
+├── styles/
+│   └── globals.css
+├── tailwind.config.js
+├── next.config.js
+└── package.json
+```
+
+## Sections
+
+- **Hero**: Eye-catching introduction with animated elements
+- **About**: Personal story and achievements
+- **Skills**: Technology expertise with progress bars
+- **Experience**: Work history with detailed achievements
+- **Projects**: Featured projects with technologies used
+- **Contact**: Contact form and information
+
+## Customization
+
+To customize this portfolio for your own use:
+
+1. Update personal information in the components
+2. Modify the color scheme in `tailwind.config.js`
+3. Replace placeholder content with your own
+4. Update the resume.txt content as needed
+
+## Deployment
+
+The portfolio is ready to deploy on:
+- Vercel (recommended)
+- Netlify
+- AWS Amplify
+- Any static hosting service
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
