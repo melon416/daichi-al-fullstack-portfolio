@@ -61,10 +61,18 @@ Netlify should auto-detect Next.js, but verify:
 
 ### 3.1 Add Domain in Netlify
 
-1. Go to **Site settings** → **Domain management** → **Domains**
-2. Click **"Add custom domain"**
+**Option 1: Direct Access (Easiest)**
+1. Click **"Domain management"** in the left sidebar
+2. Click **"Add domain"** or **"Add custom domain"**
 3. Enter your domain (e.g., `yourname.com`)
-4. Click **"Verify"**
+4. Click **"Verify"** or **"Add"**
+
+**Option 2: Via Custom Domain Card**
+1. On the Project Overview page, find the **"Custom domain"** card
+2. Click **"Go to Domain management"** button
+3. Follow the steps above
+
+**Note:** In Netlify, "Domain management" is directly accessible from the sidebar - no need to go through "Site settings" first!
 
 ### 3.2 Configure DNS
 
