@@ -60,7 +60,7 @@ export default function About() {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             <h3 className="text-2xl font-bold text-gray-900 mb-4">
-              AI & Automation Engineer
+              AI & Full-Stack Engineer (CEO)
             </h3>
             
             <div className="space-y-4 text-gray-600 leading-relaxed text-base">
@@ -152,7 +152,7 @@ export default function About() {
               Location & Contact
             </h4>
             <p className="text-lg text-gray-600 mb-2">
-              📍 Tokyo, Japan
+              📍 Dalla, Texas
             </p>
             <p className="text-lg text-gray-600">
               📧 Kiwi530@proton.me

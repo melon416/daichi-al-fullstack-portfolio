@@ -82,15 +82,15 @@ export default function Contact() {
       href: "mailto:Kiwi530@proton.me"
     },
     {
-      icon: <MapPin className="w-6 h-6" />,
-      title: "Location",
-      value: "Tokyo, Japan",
-      href: "#"
+      icon: <Phone className="w-6 h-6" />,
+      title: "WhatsApp",
+      value: "+1 (458) 331-7843",
+      href: "https://wa.me/14583317843"
     },
     {
-      icon: <MessageCircle className="w-6 h-6" />,
-      title: "Availability",
-      value: "Open to new opportunities",
+      icon: <MapPin className="w-6 h-6" />,
+      title: "Location",
+      value: "Dallas, Texas",
       href: "#"
     }
   ]
@@ -99,8 +99,14 @@ export default function Contact() {
     {
       icon: <MessageSquare className="w-4 h-4" />,
       name: "Telegram",
-      href: "https://t.me/joyfulkiwi",
+      href: "https://t.me/DaichiYamamoto",
       hoverClass: "hover:bg-blue-500 hover:border-blue-500 hover:text-white"
+    },
+    {
+      icon: <MessageCircle className="w-4 h-4" />,
+      name: "Discord",
+      href: "https://discord.com/users/JoyfulKiwi555",
+      hoverClass: "hover:bg-indigo-600 hover:border-indigo-600 hover:text-white"
     },
     {
       icon: <Github className="w-4 h-4" />,

@@ -33,10 +33,10 @@ export default function Footer() {
             className="text-center"
           >
             <blockquote className="text-lg italic text-gray-300 mb-2">
-              &ldquo;Building the future with AI and automation&rdquo;
+              &ldquo;Building the future with AI and software development&rdquo;
             </blockquote>
             <p className="text-sm text-gray-500">
-              Tokyo, Japan
+              Dallas, Texas
             </p>
           </motion.div>
 
