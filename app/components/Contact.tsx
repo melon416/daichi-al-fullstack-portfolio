@@ -90,7 +90,7 @@ export default function Contact() {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Location",
-      value: "Dallas, Texas",
+      value: "Tokyo, Japan",
       href: "#"
     }
   ]

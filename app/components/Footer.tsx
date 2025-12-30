@@ -36,7 +36,7 @@ export default function Footer() {
               &ldquo;Building the future with AI and software development&rdquo;
             </blockquote>
             <p className="text-sm text-gray-500">
-              Dallas, Texas
+              Tokyo, Japan
             </p>
           </motion.div>
 

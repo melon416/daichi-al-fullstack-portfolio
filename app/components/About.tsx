@@ -152,7 +152,7 @@ export default function About() {
               Location & Contact
             </h4>
             <p className="text-lg text-gray-600 mb-2">
-              📍 Dalla, Texas
+              📍 Tokyo, Japan
             </p>
             <p className="text-lg text-gray-600">
               📧 Kiwi530@proton.me
